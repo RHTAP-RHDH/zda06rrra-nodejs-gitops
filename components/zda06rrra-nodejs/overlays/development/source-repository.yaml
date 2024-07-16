@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zda06rrra-nodejs-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/zda06rrra-nodejs
